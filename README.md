@@ -1,9 +1,9 @@
-# Installation:
+# Installation on local machines:
 
 - First, install ollama by go to https://ollama.com/ and click Download for your operating system.
 
 - Now open terminal and type `ollama run gemma2` and press Enter. It will download the gemma2 model to run as the Large Language Model.
 
-- 
+- Install neccessary packages by open a new terminal window and type `pip install -r requirements.txt` then press Enter.
 
-- Open another terminal window and type `streamlit run main.py` to enjoy the app.
+- Now type `streamlit run main.py` to enjoy the app.
