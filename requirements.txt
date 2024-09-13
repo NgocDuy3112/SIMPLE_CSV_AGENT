@@ -1,0 +1,9 @@
+pandas
+streamlit
+transformers
+huggingface
+langchain
+langchain_experimental
+langchain_core
+langchain_ollama
+langchain_huggingface
