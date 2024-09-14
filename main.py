@@ -21,7 +21,7 @@ def main():
             handle_parsing_errors=True
         )
 
-        user_question = st.text_input("Ask a question about your CSV: ")
+        user_question = st.text_input("Đặt câu hỏi tại đây: ")
 
         if user_question is not None and user_question != "":
             with st.spinner(text="In progress..."):
